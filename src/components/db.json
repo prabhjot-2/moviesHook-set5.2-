@@ -1,0 +1,58 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "movieName": "Movie1",
+      "actor": "Rajninikanth",
+      "movieDirector": "Nelson Dilipkumar"
+    },
+    {
+      "id": "2",
+      "movieName": "Movie2",
+      "actor": "Salman",
+      "movieDirector": "Jananvel"
+    },
+    {
+      "id": "3",
+      "movieName": "Movie3",
+      "actor": "SK",
+      "movieDirector": "Rajkumar"
+    },
+    {
+      "id": "4",
+      "movieName": "Movie4",
+      "actor": "Rajninikanth",
+      "movieDirector": "Director 4"
+    },
+    {
+      "id": "5",
+      "movieName": "Movie5",
+      "actor": "Diljit",
+      "movieDirector": "Jananvel"
+    },
+    {
+      "id": "6",
+      "movieName": "Movie6",
+      "actor": "SRK",
+      "movieDirector": "director 6"
+    },
+    {
+      "id": "7",
+      "movieName": "Movie7",
+      "actor": "Rajninikanth",
+      "movieDirector": "Dilipkumar"
+    },
+    {
+      "id": "8",
+      "movieName": "Movie8m",
+      "actor": "Diljit",
+      "movieDirector": "Jananvel"
+    },
+    {
+      "id": "9",
+      "movieName": "Movie9",
+      "actor": "SRK",
+      "movieDirector": "Rajkumar"
+    }
+  ]
+}
